@@ -1,5 +1,7 @@
 # pre-commit-shfmt hook
 
+This project will be archived and you should now use <https://github.com/fauust/pre-commit-shell>.
+
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
 Single [pre-commit](http://pre-commit.com/) hook which runs
